@@ -38,6 +38,7 @@ Voici les fonctionnalités qui peuvent être débloquées à chaque palier :
 * Arrière-plan d'invitation du serveur personnalisé
 * Stream en haute définition (720p 60 fps) pour tous les membres
 * Option archive pour les fils/threads de 3 jours
+* +10 EMPLACEMENTS D'AUTOCOLLANT PERSONNALISÉ (POUR UN TOTAL DE 15)
 
 ### ![Niveau 2](https://i.discord.fr/Ihfg.png)
 * Avantages du niveau 1
